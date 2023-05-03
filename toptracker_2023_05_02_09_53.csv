@@ -1,0 +1,11 @@
+activity,project,workers,duration,time,duration_seconds,keyboard_hits,mouse_clicks,screenshot_count,start_time,end_time
+fix jira,BackupLabs,Bohdan Vakmistrov,00:30:00,02:30pm April 27th - 03:00pm April 27th,1800,0,0,0,2023-04-27T14:30:00+03:00,2023-04-27T15:00:00+03:00
+jira match columns,BackupLabs,Bohdan Vakmistrov,00:07:26,01:09pm April 27th - 01:16pm April 27th,446,34,59,0,2023-04-27T13:09:10+03:00,2023-04-27T13:16:36+03:00
+daily,BackupLabs,Bohdan Vakmistrov,00:28:17,12:30pm April 27th - 12:58pm April 27th,1697,307,229,2,2023-04-27T12:30:04+03:00,2023-04-27T12:58:21+03:00
+jira columns,BackupLabs,Bohdan Vakmistrov,00:07:25,12:22pm April 27th - 12:30pm April 27th,445,507,85,0,2023-04-27T12:22:38+03:00,2023-04-27T12:30:03+03:00
+All apps - renamed content does not reflect in backup area,BackupLabs,Bohdan Vakmistrov,00:42:35,11:40am April 27th - 12:22pm April 27th,2555,446,2065,4,2023-04-27T11:40:02+03:00,2023-04-27T12:22:37+03:00
+fix jira,BackupLabs,Bohdan Vakmistrov,00:56:09,10:43am April 27th - 11:40am April 27th,3369,1737,2204,5,2023-04-27T10:43:52+03:00,2023-04-27T11:40:01+03:00
+Change the link to show the error for users in case if that account is already in use in BackupLABS,BackupLabs,Bohdan Vakmistrov,00:26:38,10:13am April 27th - 10:39am April 27th,1598,654,1999,2,2023-04-27T10:13:02+03:00,2023-04-27T10:39:40+03:00
+fix jira,BackupLabs,Bohdan Vakmistrov,01:46:53,08:26am April 27th - 10:13am April 27th,6413,1817,4916,10,2023-04-27T08:26:09+03:00,2023-04-27T10:13:02+03:00
+fix jira,BackupLabs,Bohdan Vakmistrov,00:29:00,07:57am April 27th - 08:26am April 27th,1740,1862,2693,2,2023-04-27T07:57:00+03:00,2023-04-27T08:26:00+03:00
+fix jira,BackupLabs,Bohdan Vakmistrov,01:00:04,06:57am April 27th - 07:57am April 27th,3604,1396,2130,6,2023-04-27T06:57:01+03:00,2023-04-27T07:57:05+03:00
